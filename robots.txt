@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://timetotalk.io/sitemap.xml
+Host: https://timetotalk.io
